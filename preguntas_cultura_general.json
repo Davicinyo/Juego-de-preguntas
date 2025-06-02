@@ -1,5 +1,16 @@
 [
   {
+    "pregunta": "¿Mejor piloto de F1?",
+    "opciones": [
+      "Ferando Alonso",
+      "París",
+      "Lyon",
+      "Niza"
+    ],
+    "respuestaCorrecta":0
+  
+  }
+  {
     "pregunta": "¿Cuál es la capital de Francia?",
     "opciones": [
       "Marsella",
